@@ -9,7 +9,7 @@ Funcionalidade: Visão do aluno
     Quando clicar no botao aluno
     Entao usuário deve ser redirecionado para a página sou-aluno
 
-  Cenário: Validar botão de contato via Wpp
+  Cenário: Validar botão de contato via email
     Dado que usuário está na pagina sou-aluno
     Quando clicar no botão falar com o time
     Entao usuario deve ser redirecionado para o whatsapp
