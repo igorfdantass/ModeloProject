@@ -25,3 +25,42 @@ Funcionalidade: Visão do aluno
   Cenario: validar que saldo foi atualizado
   Cenario: validar saldo na data1
   Cenario: validar saldo na data2
+
+main (PROD)
+  pilot -> opcional
+    test/UAT -> QAs testam
+      developed -> onde faz o merge
+        work-branch-feature1
+          codigo da história
+        work-branch-feature2
+          codigo da historia2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
